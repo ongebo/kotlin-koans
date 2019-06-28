@@ -3,7 +3,6 @@ package i_introduction._6_Data_Classes
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
-
 class N06DataClassesKtTest {
     @Test
     fun testListOfPeople() {
